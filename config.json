@@ -1,7 +1,7 @@
 {
     "app_id" : "com.weknow.weknowmobile",
-    "versioncode" : "2011",
-    "versionname" : "3.0.0",
+    "versioncode" : "2016,
+    "versionname" : "1.0.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "es-mx",
     "languages": {"ar": "عربي", 
