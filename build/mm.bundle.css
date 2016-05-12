@@ -7722,8 +7722,8 @@ em {
   color: #fff; }
   .bar-content .title {
     color: #fff; 
-	width: auto;
-	margin: 0 auto; 
+	width: 50% auto;
+	margin: 50% auto; 
 	text-align: center; }
   .bar-content .button {
     border-color: transparent;
