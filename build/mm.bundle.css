@@ -7722,14 +7722,9 @@ em {
   color: #fff; }
   .bar-content .title {
     color: #fff; 
-<<<<<<< HEAD
 	margin: 0; 
 	padding: 0; 
 	text-align: justify; }
-=======
-	position: relative;
-	left: 50%; }
->>>>>>> origin/master
   .bar-content .button {
     border-color: transparent;
     background-color: #5c5d5f;
