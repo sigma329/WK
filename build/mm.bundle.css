@@ -7722,8 +7722,8 @@ em {
   color: #fff; }
   .bar-content .title {
     color: #fff; 
-	position: absolute;
-	left: 50%;}
+	position: relative;
+	left: 50%; }
   .bar-content .button {
     border-color: transparent;
     background-color: #5c5d5f;
