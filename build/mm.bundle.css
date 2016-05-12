@@ -7721,7 +7721,8 @@ em {
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff; }
   .bar-content .title {
-    color: #fff; }
+    color: #fff;
+	text-align: center;	}
   .bar-content .button {
     border-color: transparent;
     background-color: #5c5d5f;
@@ -7745,21 +7746,21 @@ em {
 
 .col-60 {
   -webkit-box-flex: 0;
-  -webkit-flex: 0 0 60%;
+  -webkit-flex: 0 0 50%;
   -moz-box-flex: 0;
-  -moz-flex: 0 0 60%;
-  -ms-flex: 0 0 60%;
-  flex: 0 0 60%;
-  max-width: 60%; }
+  -moz-flex: 0 0 50%;
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%; }
 
 .col-40 {
   -webkit-box-flex: 0;
-  -webkit-flex: 0 0 40%;
+  -webkit-flex: 0 0 50%;
   -moz-box-flex: 0;
-  -moz-flex: 0 0 40%;
-  -ms-flex: 0 0 40%;
-  flex: 0 0 40%;
-  max-width: 40%; }
+  -moz-flex: 0 0 50%;
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%; }
 
 .item-media {
   padding-left: 64px;
