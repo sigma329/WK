@@ -7723,8 +7723,10 @@ em {
   .bar-content .title {
     color: #fff; 
 	position: absolute;
-	left: 50% auto;
-	right: 50% auto; }
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%, -50%);
+	-webkit-transform: translate(-50%, -50%); }
   .bar-content .button {
     border-color: transparent;
     background-color: #5c5d5f;
