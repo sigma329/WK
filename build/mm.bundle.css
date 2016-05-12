@@ -7721,10 +7721,7 @@ em {
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff; }
   .bar-content .title {
-    color: #fff; 
-	width: 50% auto;
-	margin: 50% auto; 
-	text-align: center; }
+    color: #fff; }
   .bar-content .button {
     border-color: transparent;
     background-color: #5c5d5f;
