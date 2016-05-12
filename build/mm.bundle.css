@@ -7722,8 +7722,9 @@ em {
   color: #fff; }
   .bar-content .title {
     color: #fff; 
-	width: 60%;
-	margin: 0 auto; }
+	width: auto;
+	margin: 0 auto; 
+	text-align: center; }
   .bar-content .button {
     border-color: transparent;
     background-color: #5c5d5f;
