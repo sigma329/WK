@@ -447,7 +447,7 @@
     "mm.login.siteinmaintenance": "Su sitio está en modo de mantenimiento",
     "mm.login.siteurl": "URL del sitio",
     "mm.login.siteurlrequired": "La URL del sitio es obligatoria, por ejemplo <i>http://www.susitiomoodle.com o  https://www.susitiomoodle.mx</i>",
-    "mm.login.username": "Nombre_de_usuario",
+    "mm.login.username": "Nombre de usuario",
     "mm.login.usernamerequired": "Nombre_de_usuario obligatorio",
     "mm.login.webservicesnotenabled": "Los servicios web no están habilitados en su sitio. Por favor, contacte a su administrador del sitio Moodle si Usted piensa que se debería habilitar el acceso por dispositivos móviles.",
     "mm.settings.about": "Acerca de",
